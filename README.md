@@ -1,6 +1,6 @@
 # What is this !?
 This is a very slow compression tool made in haskell.
-No multithreading , nope nothingç
+No multithreading , nope nothing.
 Its work in progress just check the main function in app/Main.
 Thats all.
 # How do I use it ?
