@@ -9,12 +9,12 @@ You sadly can't for now
 ## If you have Nix
 This is just optional you can just use cabal to build
 But I used this dev flake while I build it. This may help reproducibility
-'''
+```
 nix develop
 cabal build
-'''
+```
 ## Normal build
 Just use this
-'''
+```
 cabal build
-'''
+```
