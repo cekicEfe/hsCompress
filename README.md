@@ -22,7 +22,7 @@ Just use this
 ```
 cabal build
 ```
-## Running 
+# Running 
 ```
 cabal run
 ```
