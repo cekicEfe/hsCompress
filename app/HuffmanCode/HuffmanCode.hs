@@ -23,7 +23,7 @@ decodeFileHuffman binPath = do
       let uncompressed = substituteStr [] decodedByteStr $ fst dict
       writeFile (binPath ++ ".uncompressed") uncompressed
 
--- Just horrible fix this at once mfer
+-- Just horrible fix this at once 
 
 substituteStr :: String -> String -> [(Char, String)] -> String
 substituteStr _ [] _ = []
